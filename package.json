@@ -1,0 +1,22 @@
+{
+  "name": "webSocket-challenge",
+  "version": "1.0.0",
+  "description": "Weekly challenge - WebSocket chat",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liamks/Testing-Socket.IO/issues"
+  },
+  "dependencies": {
+    "mocha": "^2.1.0",
+    "should": "^4.6.0",
+    "socket.io": "^1.2.1",
+    "socket.io-client": "^1.2.1"
+  }
+}
